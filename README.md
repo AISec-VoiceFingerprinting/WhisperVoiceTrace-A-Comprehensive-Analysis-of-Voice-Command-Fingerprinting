@@ -10,7 +10,7 @@ sudo apt install graphviz
 ```
 
 ## Dataset
-The WhiVo Alexa Dataset referenced in the paper can be accessed through the link provided : </br>
+The WhiVo Alexa Dataset referenced in the paper can be accessed through the link provided : https://drive.google.com/drive/folders/1Bx3gxMC02GOXviDiIEdPvxxcqoCWkvb6?usp=share_link </br>
   dataset1 : data_mon_300.npz - monitored set consisting of 300 instances per class.</br>
   dataset2 : data_mon_1000.npz - monitored set consisting of 1000 instances per class.</br>
   dataset3 : data_unmon_1000.npz - unmonitored set consisting of 1000 instances per class.</br>
