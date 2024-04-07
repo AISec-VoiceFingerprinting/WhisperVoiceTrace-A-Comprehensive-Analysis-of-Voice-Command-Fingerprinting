@@ -32,8 +32,8 @@ python3 Data_npz.py
 
 2. Train models through VAV1, VAV2, Size features and save the pre-trained weights.
 ```py
-python3 run_VAV1.py --load-VAV2 <file path of VAV2.pkl> --load-classes <file path of y.pkl>
-python3 run_VAV2.py --load-VAV1 <file path of VAV1.pkl> --load-classes <file path of y.pkl>
+python3 run_VAV1.py --load-VAV1 <file path of VAV1.pkl> --load-classes <file path of y.pkl>
+python3 run_VAV2.py --load-VAV2 <file path of VAV2.pkl> --load-classes <file path of y.pkl>
 python3 run_Size.py --load-Size <file path of Size.pkl> --load-classes <file path of y.pkl>
 ```
 
